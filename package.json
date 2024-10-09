@@ -1,0 +1,16 @@
+{
+  "name": "@orbits/runtype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha -b --check-leaks --recursive ./test -- "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
